@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ユメクライミング",
+  "base_artist": "iLiFE!",
+  "createdAt": "2026-02-19T12:35:53.827787Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ユメクライミング",
+      "artist": "iLiFE!",
+      "has_synced": false,
+      "path": "select/pl_01_ユメクライミング_iLiFE!.txt"
+    }
+  ]
+}
